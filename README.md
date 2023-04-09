@@ -8,12 +8,12 @@ Implemented public methods:
 - equals - Checking if two instances of data structures are equivalent to each other.
 
 **Node class:**
-- getValue
-- getLeft
-- getRight
-- setValue
-- setLeft
-- setRight
+- getValue - returns value
+- getLeft - returns left
+- getRight - returns right
+- setValue - sets value
+- setLeft - sets left
+- setRight - sets right
 - isLeaf - Checking if Node is a leaf
 - equals - Checking if two instances of Node class are equivalent
 
