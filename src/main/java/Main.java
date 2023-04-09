@@ -25,6 +25,7 @@ public class Main {
         Tree copyTree = new Tree(copy);
         Tree changedTree = new Tree(changed);
 
+        // example of using Tree class methods
         int leaves = tree.numberOfLeaves();
         System.out.println("Number of leaves: " + leaves);
 

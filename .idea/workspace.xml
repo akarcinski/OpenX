@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eeb6000-2e26-45dc-8b6f-a33c050daf03" name="Default Changelist" comment="" />
+    <list default="true" id="9eeb6000-2e26-45dc-8b6f-a33c050daf03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ (2).idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ (2).idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ (2).idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ (2).idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ (2).idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OpenX-task" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2O3luLjqaFxPE8bulDBWwcrUh8O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/OpenX-task" />
   </component>
-  <component name="RunManager" selected="JUnit.All in OpenX">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="OpenX" />
@@ -58,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in OpenX" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in OpenX" />
         <item itemvalue="JUnit.NodeTest" />
       </list>
     </recent_temporary>
@@ -74,5 +83,8 @@
       <updated>1680797371692</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
