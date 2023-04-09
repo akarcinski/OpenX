@@ -17,7 +17,7 @@ Implemented public methods:
 - isLeaf - Checking if Node is a leaf
 - equals - Checking if two instances of Node class are equivalent
 
-I also implemented unit tests for methods:
+I have also implemented unit tests for methods:
 - Tree.numberOfLeaves
 - Tree.pathLength
 - Tree.equals
